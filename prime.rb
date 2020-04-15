@@ -8,5 +8,3 @@ def prime?(integer)
   end
   true
 end
-
-puts prime?(1763)
